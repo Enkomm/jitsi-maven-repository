@@ -3,11 +3,11 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-community_netinfo</artifactId>
   <versioning>
-    <latest>6.0.0-jitsi-10948442</latest>
-    <release>6.0.0-jitsi-10948442</release>
+    <latest>6.0.0-jitsi-10948567</latest>
+    <release>6.0.0-jitsi-10948567</release>
     <versions>
-      <version>6.0.0-jitsi-10948442</version>
+      <version>6.0.0-jitsi-10948567</version>
     </versions>
-    <lastUpdated>20220621032027</lastUpdated>
+    <lastUpdated>20220621034113</lastUpdated>
   </versioning>
 </metadata>
